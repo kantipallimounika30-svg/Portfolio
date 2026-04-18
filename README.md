@@ -24,18 +24,17 @@ Cybersecurity Fundamentals | Data Analysis | Problem Solving
 
 
  📊 - Projects
+ 🔹 Power BI Dashboard
+  - Created interactive dashboards
+  - Analyzed data to find insights
 
-🔹 Power BI Dashboard
-- Created interactive dashboards
-- Analyzed data to find insights
+ 🔹 Secure Authentication System
+  - Developed OTP + Biometric login system
+  - Used Java and SQL for backend
 
-🔹 Secure Authentication System
-- Developed OTP + Biometric login system
-- Used Java and SQL for backend
-
-🔹 E-Commerce Platform
-- Built web app for product management
-- Implemented user and order features
+ 🔹 E-Commerce Platform
+  - Built web app for product management
+  - Implemented user and order features
 
 📫 Connect With Me
 - LinkedIn: [https://www.linkedin.com/in/kantipalli-mounika-a504a8404]
